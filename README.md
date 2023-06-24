@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bastian Prado (or PotatoDoge)</h1>
+<h1 align="center">Hi 👋, I'm Bastian (or PotatoDoge)</h1>
 <h3 align="center">I am a software engineer interested in fullstack technologies (I am more into backend and mobile development), as well as learning about cloud technologies and CI/CD.</h3>
 
 - 🌱 I’m currently learning **React/Angular and different Springboot implementations (rest, graphql, etc.)**
