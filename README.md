@@ -5,7 +5,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/bastian-prado-b3a254222/](https://www.linkedin.com/in/bastian-prado-b3a254222/)
 
-- ⚡ Fun fact **I really like meeting new people, so feel free to contact me!**
+- ⚡ Fun fact **I am open to new projects, so feel free to contact me!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
