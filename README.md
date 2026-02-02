@@ -104,17 +104,3 @@ I also enjoy working with cloud-native solutions on AWS, event-driven architectu
 - 🧹 Code quality & maintainability mindset  
 
 ---
-
-<p>
-  <img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=potatodoge&show_icons=true&locale=en&layout=compact"
-    alt="potatodoge"
-  />
-</p>
-
-<p>&nbsp;
-  <img align="center"
-    src="https://github-readme-stats.vercel.app/api?username=potatodoge&show_icons=true&locale=en"
-    alt="potatodoge"
-  />
-</p>
